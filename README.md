@@ -1,4 +1,4 @@
-# Chess v2.2
+# Chess
 
 Dummy chess with uncontrolled movements! :)
 
